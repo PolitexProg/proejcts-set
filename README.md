@@ -1,2 +1,3 @@
 # proejcts-set
-https://roadmap.sh/projects/task-tracker
+https://github.com/PolitexProg/proejcts-set/github-user-activity
+https://roadmap.sh/projects/github-user-activity
